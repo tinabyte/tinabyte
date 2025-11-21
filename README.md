@@ -7,7 +7,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
 
-I'm [**Tina**](www.linkedin.com/in/tinachi1), a software engineer, student, creative programmer, and content creator.
+I'm [**Tina**](https://www.linkedin.com/in/tina-chi-2940a7229/), a software engineer, student, creative programmer, and content creator.
 
 I am an incoming software engineer at [@Apple](https://www.apple.com/) on Productivity Apps team & Computer Science Student at [@University of Florida](https://www.ufl.edu/).
 
