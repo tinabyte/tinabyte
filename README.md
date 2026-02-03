@@ -11,7 +11,7 @@ I'm [**Tina**](https://www.linkedin.com/in/tina-chi-2940a7229/), a software engi
 
 I am an incoming software engineer at [@Apple](https://www.apple.com/) on Productivity Apps team & Computer Science Student at [@University of Florida](https://www.ufl.edu/).
 
-When I am not *programming*, you can find me rock climbing, video editing, drawing pixel art, hiking, or making tech-related content (50K+ followers and more).
+When I am not *programming*, you can find me rock climbing, video editing, drawing pixel art, hiking
 
 #### Follow  my on github and linkedin (^_−)−☆
 
