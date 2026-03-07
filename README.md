@@ -9,7 +9,7 @@
 
 I'm [**Tina**](https://www.linkedin.com/in/tina-chi-2940a7229/), a software engineer, student, creative programmer, and content creator.
 
-I am an incoming software engineer at [@Apple](https://www.apple.com/) on Productivity Apps team & Computer Science Student at [@University of Florida](https://www.ufl.edu/).
+I am an incoming software engineer at [@Apple](https://www.apple.com/) & Computer Science Student at [@University of Florida](https://www.ufl.edu/).
 
 When I am not *programming*, you can find me rock climbing, video editing, drawing pixel art, hiking
 
